@@ -1,0 +1,2 @@
+# etc
+etc » cores » go
